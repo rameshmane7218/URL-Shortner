@@ -1,4 +1,5 @@
 ## URL Shortner
+URL Shortner is an website which helps you to Short long URL. Provides extra features like custom name and no ads.
 
 ## Homepage
 
